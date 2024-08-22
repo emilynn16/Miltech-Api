@@ -20,12 +20,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido|
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|Kick Off geral | 26/08 a 30/08 | a fazer |
+|Kick 1° semestre | 02/09 a 06/09 | a fazer |
+|01| 09/09 a 29/09| a fazer |
+|02| 30/09 a 20/10 | a fazer |
+|03| 21/10 a 10/11 | a fazer |
+|Feira de Soluções | 12/12 | a fazer |  
 
 
 
