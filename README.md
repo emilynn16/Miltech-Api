@@ -20,7 +20,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off geral | 26/08  | concluido |
+|Kick Off geral |  26/08  | concluido |
 |Kick 1° semestre | 02/09 a 06/09 | a fazer |
 |01| 09/09 a 29/09| a fazer |
 |02| 30/09 a 20/10 | a fazer |
