@@ -55,7 +55,7 @@ Adicionar video e documentos nessa seção
 ## Tecnologias Utilizadas
 
 * Jira Software
-* Power BI
+* Power BI 
 * Microsoft Excel
 * Slack
 
