@@ -35,9 +35,9 @@ Sprint | Previsão | Status|
 Em resumo, nosso projeto oferece percepções e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira (cliente interno).
 
 *Análise de Produtividade das rotas;
-Criação e modelagem de um banco de dados em SQL;
-Criação de um visualizador de indicadores em BI;
-Aplicação do método de transportes para otimização da distribuição.
+*Criação e modelagem de um banco de dados em SQL;
+*Criação de um visualizador de indicadores em BI;
+*Aplicação do método de transportes para otimização da distribuição.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -60,6 +60,13 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
+Nesta Sprint, vamos apresentar a pedido do cliente:
+
+*Análise de Produtividade das rotas;
+*Criação e modelagem de um banco de dados em SQL;
+*Criação de um visualizador de indicadores em BI;
+*Aplicação do método de transportes para otimização da distribuição.
+
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
