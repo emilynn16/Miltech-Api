@@ -64,7 +64,7 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
-Nessa SPRINT, como o cliente queria visualizar o tratamento dos meus dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
+Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 * Análise de Produtividade das rotas;
 * Criação e modelagem de um banco de dados em SQL;
