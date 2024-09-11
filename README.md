@@ -62,6 +62,10 @@ Adicionar video e documentos nessa seção
 
 
 # Backlog do produto
+Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para análise inicial, fornecendo uma visão clara dos dados e preparar a base para o tratamento, para isso vamos ter feedback do cliente sobre o tratamento de dados e realizar ajustes conforme necessário.
+
+![image](https://github.com/user-attachments/assets/ab71b7c1-abb6-41bc-ad6c-5aa0f48ad76b)
+
 
 ## Sprint 1. Concepção
 Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
