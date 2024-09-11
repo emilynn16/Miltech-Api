@@ -21,8 +21,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off geral |  26/08  | concluido |
-|Kick 1° semestre | 02/09 a 06/09 | a fazer |
-|01| 09/09 a 29/09| a fazer |
+|Kick 1° semestre | 02/09 a 06/09 | concluido |
+|01| 25/09 | a fazer |
 |02| 30/09 a 20/10 | a fazer |
 |03| 21/10 a 10/11 | a fazer |
 |Feira de Soluções | 12/12 | a fazer |  
@@ -64,7 +64,7 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
-Nesta Sprint, vamos apresentar a pedido do cliente:
+Nessa SPRINT, como o cliente queria visualizar o tratamento dos meus dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 * Análise de Produtividade das rotas;
 * Criação e modelagem de um banco de dados em SQL;
