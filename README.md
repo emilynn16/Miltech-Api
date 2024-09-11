@@ -64,7 +64,8 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para análise inicial, fornecendo uma visão clara dos dados e preparar a base para o tratamento, para isso vamos ter feedback do cliente sobre o tratamento de dados e realizar ajustes conforme necessário.
 
-![image](https://github.com/user-attachments/assets/ab71b7c1-abb6-41bc-ad6c-5aa0f48ad76b)
+![image](https://github.com/user-attachments/assets/e22997c5-6bc8-4f7b-9f61-a6cee86817fd)
+
 
 
 ## Sprint 1. Concepção
