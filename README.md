@@ -65,7 +65,7 @@ Adicionar video e documentos nessa seção
 Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para análise inicial, fornecendo uma visão clara dos dados e preparar a base para o tratamento, para isso vamos ter feedback do cliente sobre o tratamento de dados e realizar ajustes conforme necessário.
 
 
-![image](https://github.com/user-attachments/assets/f65b54f0-73ca-4824-9b93-b64e513d1dd6)
+![image](https://github.com/user-attachments/assets/fc3d37e6-3405-47f9-a074-f43b7b56b761)
 
 
 
