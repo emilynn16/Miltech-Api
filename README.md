@@ -76,19 +76,8 @@ Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para anális
 Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 * Análise de Produtividade das rotas;
-* Criação e modelagem de um banco de dados em SQL;
 * Criação de um visualizador de indicadores em BI;
 * Aplicação do método de transportes para otimização da distribuição.
-
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
