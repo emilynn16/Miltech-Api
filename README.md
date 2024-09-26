@@ -15,7 +15,7 @@ Este projeto visa analisar a produtividade dos veículos, otimizar a distribuiç
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off geral |  26/08  | concluido | [Ver Relatório]() |
+|Kick Off geral |  26/08  | concluido | [Ver Relatório](https://teams.microsoft.com/v2/?ring=ring3_6) |
 |Kick 1° semestre | 02/09 a 06/09 | concluido | [Ver Relatório]() |
 |01| 02/10 | a fazer | [Ver Relatório]() |
 |02| 30/09 a 20/10 | a fazer | [Ver Relatório]() |
