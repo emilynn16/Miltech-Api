@@ -73,7 +73,7 @@ Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para anális
 
 
 ## Sprint 1. Concepção
-Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
+Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência. Com a planilha que o cliente nos forneceu, com os dados, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 * Análise de Produtividade das rotas;
 * Estrutura do backlog;
