@@ -18,7 +18,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off geral |  26/08  | concluido | [Ver Relatório]() |
 |Kick 1° semestre | 02/09 a 06/09 | concluido | [Ver Relatório]() |
 |01| 02/10 | a fazer | [Ver Relatório](https://teams.microsoft.com/v2/?ring=ring3_6) |
-|02| 30/09 a 20/10 | a fazer | [Ver Relatório]() |
+|02| 30/09 a 20/10 | a fazer | [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLuxLogistic%2FLux_Logistic_API3%2Fmain%2FDocumentos%2FAPI_III_Relatorio_Sprint_01.docx&wdOrigin=BROWSELINK) |
 |03| 21/10 a 10/11 | a fazer | [Ver Relatório]() |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
 
