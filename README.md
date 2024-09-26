@@ -13,7 +13,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 # Projeto (API) 
 Este projeto visa analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos das rotas de uma empresa de transporte de carga, identificando oportunidades para tornar as operações mais eficientes.
 
-Sprint | Previsão | Status| HISTÓRICO|
+Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off geral |  26/08  | concluido | [Ver Relatório]() |
 |Kick 1° semestre | 02/09 a 06/09 | concluido | [Ver Relatório]() |
@@ -22,7 +22,28 @@ Sprint | Previsão | Status| HISTÓRICO|
 |03| 21/10 a 10/11 | a fazer | [Ver Relatório]() |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
 
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/LuxLogistic/projects/1)
 
+# Requisitos
+
+* Requisitos funcionais
+  
+>Uma estrutura de banco de dados relacional
+>
+>Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
+>
+>Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas
+>
+>Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas
+
+ 
+* Requisitos não funcionais
+
+>Usar tecnologias especifícas/apoio/tecnológicas
+>
+>Metodologias ágil
+>
+>Power BI / Jira 
 
 
 
