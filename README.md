@@ -1,10 +1,7 @@
 # Miltech-Api
-Repositório para a aula de API 6°GPI
-# Aprendizado por Projeto Integrado (API) 
-
+Estamos desenvolvendo um projeto com a metodologia ágil SCRUM, focado em desenvolver a proatividade, a autonomia, a colaboração e a entrega de resultados dos alunos do grupo. 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -14,15 +11,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Este projeto visa analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos das rotas de uma empresa de transporte de carga, identificando oportunidades para tornar as operações mais eficientes.
 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off geral |  26/08  | concluido |
 |Kick 1° semestre | 02/09 a 06/09 | concluido |
-|01| 25/09 | a fazer |
+|01| 02/10 | a fazer |
 |02| 30/09 a 20/10 | a fazer |
 |03| 21/10 a 10/11 | a fazer |
 |Feira de Soluções | 12/12 | a fazer |  
@@ -34,13 +29,18 @@ Sprint | Previsão | Status|
 # Objetivo do Projeto
 Nosso projeto oferece percepções e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira (cliente interno).
 
-Este projeto, na plataforma GitHub, tem como objetivo facilitar o ambiente colaborativo, proporcionando suporte e facilidade na utilização desta plataforma, visando:
+Vamos desenvolver um projeto que inclui:
 
-- Centralizar os trabalhos e projetos;
-- Organizar e estruturar as informações;
-- Versionar e controlar as alterações;
-- Facilitar o compartilhamento e feedback;
-- Desenvolver habilidades técnicas.
+- A criação e modelagem de um banco de dados no Excel, facilitando a organização das informações;
+
+- A construção de um painel interativo em BI, que permita visualizar os principais indicadores de forma clara e intuitiva;
+
+- A aplicação do método de transportes para otimizar a distribuição, ajudando a tornar os processos mais eficientes e econômicos.
+  
+
+
+
+
 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
@@ -76,8 +76,10 @@ Iremos gerar uma planilha contendo os dados fornecidos pelo cliente para anális
 Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência é a geração de uma planilha com os dados que o cliente forneceu, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 * Análise de Produtividade das rotas;
-* Criação de um visualizador de indicadores em BI;
-* Aplicação do método de transportes para otimização da distribuição.
+* Estrutura do backlog;
+* Aplicação do método de transportes para otimização da distribuição;
+* Atribuição de responsáveis pelas tarefas;
+* Delimitação de tarefas.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
