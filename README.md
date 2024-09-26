@@ -13,8 +13,8 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 # Projeto (API) 
 Este projeto visa analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos das rotas de uma empresa de transporte de carga, identificando oportunidades para tornar as operações mais eficientes.
 
-Sprint | Previsão | Status|
-|------|--------|------|
+Sprint | Previsão | Status| HISTÓRICO|
+|------|--------|------|--------|
 |Kick Off geral |  26/08  | concluido | [Ver Relatório]() |
 |Kick 1° semestre | 02/09 a 06/09 | concluido | [Ver Relatório]() |
 |01| 02/10 | a fazer | [Ver Relatório]() |
