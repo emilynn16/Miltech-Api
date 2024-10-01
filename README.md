@@ -28,13 +28,15 @@ Sprint | Previsão | Status| Histórico|
 
 * Requisitos funcionais
   
->Uma estrutura de banco de dados relacional
+>Uma estrutura de banco de dados no excel;
 >
->Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
+>Uma tela de análise no excel;
 >
->Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas
+>Uma tela de análise das rotas no excel;
 >
->Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas
+>Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
+>
+>Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
 
  
 * Requisitos não funcionais
