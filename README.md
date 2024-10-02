@@ -1,4 +1,4 @@
-# Miltech-Api
+# Miltech-Api 6° Semestre
 Estamos desenvolvendo um projeto com a metodologia ágil SCRUM, focado em desenvolver a proatividade, a autonomia, a colaboração e a entrega de resultados dos alunos do grupo. 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
