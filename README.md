@@ -105,22 +105,14 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 * Delimitação de tarefas.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+* Documento passo a passo;
+* Vídeo passo a passo;
+* Monitoramento e ajustes.
       
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+* Defina o propósito do template;
+* Identifique os elementos principais;.
+* Finalize e aprovação.
       
 
 
