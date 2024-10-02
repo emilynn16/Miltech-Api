@@ -98,20 +98,23 @@ Segue abaixo a tabela, com a evolução do projeto.
 ## Sprint 1. Concepção
 Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência. Com a planilha que o cliente nos forneceu, com os dados, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
-* Análise de Produtividade das rotas;
-* Estrutura do backlog;
-* Aplicação do método de transportes para otimização da distribuição;
-* Atribuição de responsáveis pelas tarefas;
-* Delimitação de tarefas.
+- [x] Análise de Produtividade das rotas;
+- [x] Estrutura do backlog;
+- [x] Aplicação do método de transportes para otimização da distribuição;
+- [x] Atribuição de responsáveis pelas tarefas;
+- [x] Delimitação de tarefas.
 
 ## Sprint 2. Desenvolvimento do Projeto
+* Aplicação da otimização em Dashboard BI;
+* Otimização de um único mês da base;
 * Documento passo a passo;
 * Vídeo passo a passo;
 * Monitoramento e ajustes.
       
 ## Sprint 3 . Implementação
-* Defina o propósito do template;
-* Identifique os elementos principais;.
+* Otimização da base completa;
+* Integração BI;
+* Identifique os elementos principais;
 * Finalize e aprovação.
       
 
