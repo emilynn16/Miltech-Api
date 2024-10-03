@@ -81,7 +81,8 @@ Vamos desenvolver um projeto que inclui:
 Segue abaixo a tabela, com a evolução do projeto.
 
 
-![image](https://github.com/user-attachments/assets/7fd7f7fc-af23-4f9c-8b31-f6e6af520a1a)
+![image](https://github.com/user-attachments/assets/256afe5c-921c-40dd-83d5-213e6893f386)
+
 
 
 
