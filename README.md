@@ -103,15 +103,11 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 ## Sprint 2. Desenvolvimento do Projeto
 * Aplicação da otimização em Dashboard BI;
 * Otimização de um único mês da base;
-* Documento passo a passo;
-* Vídeo passo a passo;
-* Monitoramento e ajustes.
+
       
 ## Sprint 3 . Implementação
 * Otimização da base completa;
 * Integração BI;
-* Identifique os elementos principais;
-* Finalize e aprovação.
       
 
 
