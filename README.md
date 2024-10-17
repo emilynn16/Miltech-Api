@@ -104,7 +104,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 * Aplicação da otimização em Dashboard BI;
 * Otimização de um único mês da base.
 
-            (__) Backlog Sprint 2 (__)
+  ### Backlog Sprint 2
   
   ![image](https://github.com/user-attachments/assets/aff5fcdb-5234-425f-b22f-666310171de9)
 
