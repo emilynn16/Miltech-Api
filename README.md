@@ -106,7 +106,14 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
   ### Backlog Sprint 2
   
-  ![image](https://github.com/user-attachments/assets/aff5fcdb-5234-425f-b22f-666310171de9)
+ Item | Descrição | Objetivo| Ferramenta| Descrição|
+|------|--------|------|--------|--------|
+1 |Criação da Planilha Inicial | Gerar planilha com dados fornecidos  | Fornecer visão de dados brutos | Dados fornecidos pelo cliente, Excel | Finalizado  |
+2 |Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Em andamento |
+3 |Gerar Visualização e Relatórios| Criar Gráficos e Relatórios | Fornecer Insights Visuais e Analíticos |Power BI, Excel | Em andamento |
+4 |Avaliação da Eficiência da Ferramentas| Avaliar a Eficácia das Ferramentas | Demonstrar Eficácia das Ferramentas | Documentos de Avaliação | Em andamento |
+5 |Feedback e Ajustes| Coletar Feedback e Realizar Ajustes | Garantir Conformidade com as Expectativas | Reuniões | Em andamento |
+ 
 
 
       
