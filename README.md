@@ -104,7 +104,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 * Aplicação da otimização em Dashboard BI;
 * Otimização de um único mês da base.
 
-            (**)Backlog Sprint 2(**)
+            (__) Backlog Sprint 2 (__)
   
   ![image](https://github.com/user-attachments/assets/aff5fcdb-5234-425f-b22f-666310171de9)
 
@@ -128,11 +128,11 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -142,12 +142,12 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
