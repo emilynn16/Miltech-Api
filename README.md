@@ -102,12 +102,18 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 ## Sprint 2. Desenvolvimento do Projeto
 * Aplicação da otimização em Dashboard BI;
-* Otimização de um único mês da base;
+* Otimização de um único mês da base.
+
+* Backlog Sprint 2
+  ![image](https://github.com/user-attachments/assets/aff5fcdb-5234-425f-b22f-666310171de9)
+
 
       
 ## Sprint 3 . Implementação
 * Otimização da base completa;
-* Integração BI;
+* Integração BI.
+
+* Backlog
       
 
 
