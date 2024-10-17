@@ -17,7 +17,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off geral |  26/08  | Concluido | [Ver Relatório]() |
 |Kick 1° semestre | 02/09 a 06/09 | Concluido | [Ver Relatório]() |
-|01| 02/10 | concluido |[ver relatório](/documentos/relatoriosp1.pdf) |
+|01| 02/10 | concluido |[Ver Relatório](/documentos/relatoriosp1.pdf) |
 |02| 30/09 a 20/10 | a fazer | [Ver Relatório]() |
 |03| 21/10 a 10/11 | a fazer | [Ver Relatório]() |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
