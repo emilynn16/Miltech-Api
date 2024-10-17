@@ -106,7 +106,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
   ### Backlog Sprint 2
   
- Item | Descrição | Objetivo| Ferramenta| Descrição|
+ Item | Descrição | Objetivo| Ferramenta| Status |
 |------|--------|------|--------|--------|
 1 |Criação da Planilha Inicial | Gerar planilha com dados fornecidos  | Fornecer visão de dados brutos | Dados fornecidos pelo cliente, Excel | Finalizado  |
 2 |Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Em andamento |
