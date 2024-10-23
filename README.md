@@ -124,7 +124,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 | Sprint | Descrição | Experiência do Usuário |
 |--------|-----------|------------------------|
-| 1      | Tratar os dados do cliente em Python | Como cliente, quero visualizar o tratamento dos meus dados, para entender qual ferramenta será usada e sua eficiência |
+| 1      | Tratar os dados do cliente | Como cliente, quero visualizar o tratamento dos meus dados, para entender qual ferramenta será usada e sua eficiência |
 | 1      | Gerar planilhas para visualização do cliente | Como cliente, quero visualizar meus dados de maneira clara, para entender efetivamente que dados posso querer ou não que sejam trabalhados |
 
 </details>
@@ -171,15 +171,12 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 |--------|-----------|------------------------|
 | 3      | Tratamento e modelagem dos dados em SQL | Como membro da equipe de TI, quero visualizar os dados modelados em SQL, para fazer tratamentos posteriores de acordo com necessidades da empresa |
 | 3      | Estrutura do banco de dados | Como membro da equipe de TI, quero visualizar a estrutura do banco de dados, para entender a relação das fontes de dados |
-| 3      | Integração da base de dados SQL e PowerBI | Como cliente, quero uma base de dados do SQL correlacionada com o Power BI, para que o usufruto do produto seja bem estruturado |
-| 3      | Base SQL funcional | Como cliente, quero uma estrutura do SQL funcional, para que minha equipe de TI possa trabalhar nela sem muitos problemas |
 | 3      | Rotas mais usadas (decidir como será medido, por ex: mensal, diário) | Como cliente, quero entender quais as rotas mais utilizadas com métricas que fazem sentido, para avaliar e gerar estudos em cima delas |
 | 3      | Visão geral das atividades de cada veículo | Como cliente, quero visualizar as atividades que norteiam os veículos da empresa, para dar suporte e complementar análises de outros dados fornecidos |
-| 3      | Aplicação do Método de Transportes e Otimização em Python | Como cliente, quero visualizar meu produto final otimizado, para que minhas tomadas de decisões sejam mais assertivas. |
 
 </details>
 
-<details>
+
 
       
 
