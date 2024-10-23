@@ -102,21 +102,9 @@ Segue abaixo a tabela, com a evolução do projeto.
  Avaliação da Eficiência da Ferramentas| Avaliar a Eficácia das Ferramentas | Demonstrar Eficácia das Ferramentas | Documentos de Avaliação | Em andamento |
  Feedback e Ajustes| Coletar Feedback e Realizar Ajustes | Garantir Conformidade com as Expectativas | Reuniões | Em andamento |
 
+# Backlog desenvolvido nas sprints
 
-
-
-
-
-## Sprint 1. Concepção
-Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência. Com a planilha que o cliente nos forneceu, com os dados, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
-
-- [x] Análise de Produtividade das rotas;
-- [x] Estrutura do backlog;
-- [x] Aplicação do método de transportes para otimização da distribuição;
-- [x] Atribuição de responsáveis pelas tarefas;
-- [x] Delimitação de tarefas.
-
-# Backlog do produto
+ ## Sprint 1
 
 <details>
 
@@ -130,10 +118,6 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 </details>
 
 <details>
-
-## Sprint 2. Desenvolvimento do Projeto
-* Aplicação da otimização em Dashboard BI;
-* Otimização de um único mês da base.
 
   ## Sprint 2
 
@@ -155,14 +139,6 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 <details>
 
-
-
-
-      
-## Sprint 3 . Implementação
-* Otimização da base completa;
-* Integração BI.
-
   ## Sprint 3
 
 <summary>Sprint 3 Desenvolvidas</summary>
@@ -175,6 +151,35 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 | 3      | Visão geral das atividades de cada veículo | Como cliente, quero visualizar as atividades que norteiam os veículos da empresa, para dar suporte e complementar análises de outros dados fornecidos |
 
 </details>
+
+
+
+
+
+## Sprint 1. Concepção
+Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para entender qual ferramenta será usada e sua eficiência. Com a planilha que o cliente nos forneceu, com os dados, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
+
+- [x] Análise de Produtividade das rotas;
+- [x] Estrutura do backlog;
+- [x] Aplicação do método de transportes para otimização da distribuição;
+- [x] Atribuição de responsáveis pelas tarefas;
+- [x] Delimitação de tarefas.
+
+
+
+## Sprint 2. Desenvolvimento do Projeto
+* Aplicação da otimização em Dashboard BI;
+* Otimização de um único mês da base.
+
+
+
+
+
+
+      
+## Sprint 3 . Implementação
+* Otimização da base completa;
+* Integração BI.
 
 
 
