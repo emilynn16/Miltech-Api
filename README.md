@@ -84,7 +84,13 @@ Segue abaixo a tabela, com a evolução do projeto.
 ![image](https://github.com/user-attachments/assets/256afe5c-921c-40dd-83d5-213e6893f386)
 
 
-
+ Item | Descrição | Objetivo | Ferramenta | Status |
+|------|--------|------|--------|--------|
+ Criação da Planilha Inicial | Gerar planilha com dados fornecidos  | Fornecer visão de dados brutos | Dados fornecidos pelo cliente, Excel | Finalizado  |
+ Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Em andamento |
+ Gerar Visualização e Relatórios| Criar Gráficos e Relatórios | Fornecer Insights Visuais e Analíticos |Power BI, Excel | Em andamento |
+ Avaliação da Eficiência da Ferramentas| Avaliar a Eficácia das Ferramentas | Demonstrar Eficácia das Ferramentas | Documentos de Avaliação | Em andamento |
+ Feedback e Ajustes| Coletar Feedback e Realizar Ajustes | Garantir Conformidade com as Expectativas | Reuniões | Em andamento |
 
 
 
@@ -104,16 +110,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 * Aplicação da otimização em Dashboard BI;
 * Otimização de um único mês da base.
 
-  ### Backlog Sprint 2
-  
- Item | Descrição | Objetivo | Ferramenta | Status |
-|------|--------|------|--------|--------|
- Criação da Planilha Inicial | Gerar planilha com dados fornecidos  | Fornecer visão de dados brutos | Dados fornecidos pelo cliente, Excel | Finalizado  |
- Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Em andamento |
- Gerar Visualização e Relatórios| Criar Gráficos e Relatórios | Fornecer Insights Visuais e Analíticos |Power BI, Excel | Em andamento |
- Avaliação da Eficiência da Ferramentas| Avaliar a Eficácia das Ferramentas | Demonstrar Eficácia das Ferramentas | Documentos de Avaliação | Em andamento |
- Feedback e Ajustes| Coletar Feedback e Realizar Ajustes | Garantir Conformidade com as Expectativas | Reuniões | Em andamento |
- 
+
 
 
       
@@ -121,7 +118,6 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 * Otimização da base completa;
 * Integração BI.
 
-* Backlog
       
 
 
