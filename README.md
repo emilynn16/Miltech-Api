@@ -81,7 +81,6 @@ Vamos desenvolver um projeto que inclui:
 Segue abaixo a tabela, com a evolução do projeto.
 
 
-![image](https://github.com/user-attachments/assets/256afe5c-921c-40dd-83d5-213e6893f386)
 
 
  Item | Descrição | Objetivo | Ferramenta | Status |
