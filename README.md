@@ -81,10 +81,10 @@ Vamos desenvolver um projeto que inclui:
 
 ## Tecnologias Utilizadas
 
-* Jira Software <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="100" />
-* Power BI <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100" />
-* Microsoft Excel <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" />
-* Slack <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="100" />
+ <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />
 
 
 
