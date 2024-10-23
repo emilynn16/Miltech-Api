@@ -49,7 +49,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Objetivo específicos do Projeto
+# Objetivos específicos do Projeto
 Nosso projeto oferece percepções e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira (cliente interno).
 
 Vamos desenvolver um projeto que inclui:
@@ -81,10 +81,10 @@ Vamos desenvolver um projeto que inclui:
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI 
-* Microsoft Excel
-* Slack
+* Jira Software <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="100" />
+* Power BI <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100" />
+* Microsoft Excel <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" />
+* Slack <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />
 
 
 
