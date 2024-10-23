@@ -104,7 +104,6 @@ Segue abaixo a tabela, com a evolução do projeto.
 
 # Backlog desenvolvido nas sprints
 
- ## Sprint 1
 
 <details>
 
