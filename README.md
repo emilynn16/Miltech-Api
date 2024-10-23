@@ -49,17 +49,28 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Objetivo do Projeto
+# Objetivo específicos do Projeto
 Nosso projeto oferece percepções e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira (cliente interno).
 
 Vamos desenvolver um projeto que inclui:
+
 
 - A criação e modelagem de um banco de dados no Excel, facilitando a organização das informações;
 
 - A construção de um painel interativo em BI, que permita visualizar os principais indicadores de forma clara e intuitiva;
 
 - A aplicação do método de transportes para otimizar a distribuição, ajudando a tornar os processos mais eficientes e econômicos.
-  
+
+
+
+ # Objetivos do Projeto 
+ Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambiente colaborativo, proporcionando suporte e facilidade na utilização desta plataforma, visando:
+ 
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
 
 
 
