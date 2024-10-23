@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Histórico|
 |03| 21/10 a 10/11 | a fazer | [Ver Relatório]() |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/LuxLogistic/projects/1)
+
 
 # Requisitos
 
