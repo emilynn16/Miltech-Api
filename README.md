@@ -9,7 +9,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 * [Objetivos do Projeto](#objetivos-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Backlog do produto](#Backlog-do-produto)
-* [Backlog desenvolvido nas sprints](#Backlog-desenvolvido-nassprints)
+* [Backlog desenvolvido nas sprints](#Backlog-desenvolvido-nas-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
