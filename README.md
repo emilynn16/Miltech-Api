@@ -4,9 +4,12 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Requisitos](#requisitos)
+* [Objetivos específicos do Projeto](#objetivos-específicos-do-projeto)
+* [Objetivos do Projeto](#objetivos-do-projeto)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Backlog do produto](#Backlog-do-produto)
+* [Backlog desenvolvido nas sprints](#Backlog-desenvolvido-nassprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
