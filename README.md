@@ -166,6 +166,10 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 - [x] Atribuição de responsáveis pelas tarefas;
 - [x] Delimitação de tarefas.
 
+## Excel
+
+## Power Bi
+
 
 
 ## Sprint 2. Desenvolvimento do Projeto
