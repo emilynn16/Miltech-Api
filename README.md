@@ -166,15 +166,28 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 - [x] Atribuição de responsáveis pelas tarefas;
 - [x] Delimitação de tarefas.
 
-## Excel
+
 
 ## Power Bi
+![image](https://github.com/user-attachments/assets/8613b8d0-39c8-46cd-bf22-43157528e252)
+![image](https://github.com/user-attachments/assets/a136e4ee-d62f-4a86-9d91-2a82828517ed)
+
 
 
 
 ## Sprint 2. Desenvolvimento do Projeto
-* Aplicação da otimização em Dashboard BI;
-* Otimização de um único mês da base.
+- [x] Aplicação da otimização em Dashboard BI;
+- [x] Otimização de um único mês da base.
+
+
+
+## Power Bi
+![image](https://github.com/user-attachments/assets/26e79634-f778-4a22-8005-bd9e2b96fb35)
+![image](https://github.com/user-attachments/assets/0eebe66d-a8ec-4df2-9ac5-3094f8200db5)
+![image](https://github.com/user-attachments/assets/0bdf0855-9789-4ea5-aba8-cfc557ab1cb9)
+
+
+
 
 
 
@@ -185,6 +198,10 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 ## Sprint 3 . Implementação
 * Otimização da base completa;
 * Integração BI.
+
+## Excel
+
+## Power Bi
 
 
 
