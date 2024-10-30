@@ -169,8 +169,11 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 ## Excel
 [Acesso tabela Rotas](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B6f4b6f8f-4ae7-4e27-9adc-09832f33018e%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330560364&web=1)
+
 [Acesso tabela Fabricas](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B6870eeb5-2714-4957-ae07-e2e4b5dfb682%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330543992&web=1)
+
 [Acesso tabela Clientes](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7ec2b41b-8132-466b-a159-a99a25e28226%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330530004&web=1)
+
 
 
 ## Power Bi
