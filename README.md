@@ -167,10 +167,14 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 - [x] Delimitação de tarefas.
 
 
+## Excel
+[Acesso tabela Rotas](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B6f4b6f8f-4ae7-4e27-9adc-09832f33018e%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330560364&web=1)
+[Acesso tabela Fabricas](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B6870eeb5-2714-4957-ae07-e2e4b5dfb682%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330543992&web=1)
+[Acesso tabela Clientes](https://fatecspgov.sharepoint.com/:x:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7ec2b41b-8132-466b-a159-a99a25e28226%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1730330530004&web=1)
+
 
 ## Power Bi
-![image](https://github.com/user-attachments/assets/8613b8d0-39c8-46cd-bf22-43157528e252)
-![image](https://github.com/user-attachments/assets/a136e4ee-d62f-4a86-9d91-2a82828517ed)
+[Power BI acesso Sprint 1](https://app.powerbi.com/groups/me/reports/d1fd8606-d61f-4232-8398-292a2e7bfa34/ReportSection?experience=power-bi)
 
 
 
@@ -182,7 +186,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 
 ## Power Bi
-[Power BI acesso](https://app.powerbi.com/groups/me/reports/eedb2287-127d-490f-90eb-95501d5e35d6/ReportSection?experience=power-bi)
+[Power BI acesso Sprint 2](https://app.powerbi.com/groups/me/reports/eedb2287-127d-490f-90eb-95501d5e35d6/ReportSection?experience=power-bi)
 
 
 
