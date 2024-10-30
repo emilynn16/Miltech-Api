@@ -182,9 +182,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 
 ## Power Bi
-![image](https://github.com/user-attachments/assets/26e79634-f778-4a22-8005-bd9e2b96fb35)
-![image](https://github.com/user-attachments/assets/0eebe66d-a8ec-4df2-9ac5-3094f8200db5)
-![image](https://github.com/user-attachments/assets/0bdf0855-9789-4ea5-aba8-cfc557ab1cb9)
+[Power BI acesso](https://app.powerbi.com/groups/me/reports/eedb2287-127d-490f-90eb-95501d5e35d6/ReportSection?experience=power-bi)
 
 
 
