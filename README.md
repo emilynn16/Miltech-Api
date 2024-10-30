@@ -147,8 +147,7 @@ Segue abaixo a tabela, com a evolução do projeto.
 
 | Sprint | Descrição | Experiência do Usuário |
 |--------|-----------|------------------------|
-| 3      | Tratamento e modelagem dos dados em SQL | Como membro da equipe de TI, quero visualizar os dados modelados em SQL, para fazer tratamentos posteriores de acordo com necessidades da empresa |
-| 3      | Estrutura do banco de dados | Como membro da equipe de TI, quero visualizar a estrutura do banco de dados, para entender a relação das fontes de dados |
+| 3      | Tratamento e modelagem dos dados | Como membro da equipe de TI, quero visualizar os dados modelados, para fazer tratamentos posteriores de acordo com necessidades da empresa |
 | 3      | Rotas mais usadas (decidir como será medido, por ex: mensal, diário) | Como cliente, quero entender quais as rotas mais utilizadas com métricas que fazem sentido, para avaliar e gerar estudos em cima delas |
 | 3      | Visão geral das atividades de cada veículo | Como cliente, quero visualizar as atividades que norteiam os veículos da empresa, para dar suporte e complementar análises de outros dados fornecidos |
 
