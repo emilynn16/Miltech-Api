@@ -99,8 +99,8 @@ Segue abaixo a tabela, com a evolução do projeto.
  Item | Descrição | Objetivo | Ferramenta | Status |
 |------|--------|------|--------|--------|
  Criação da Planilha Inicial | Gerar planilha com dados fornecidos  | Fornecer visão de dados brutos | Dados fornecidos pelo cliente, Excel | Finalizado  |
- Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Em andamento |
- Gerar Visualização e Relatórios| Criar Gráficos e Relatórios | Fornecer Insights Visuais e Analíticos |Power BI, Excel | Em andamento |
+ Definição do Processo de Tratamento | Detalhar o Processo de Tratamento dos Dados | Explicar Etapas do Tratamento | Relatório | Finalizado |
+ Gerar Visualização e Relatórios| Criar Gráficos e Relatórios | Fornecer Insights Visuais e Analíticos |Power BI, Excel | Finalizado |
  Avaliação da Eficiência da Ferramentas| Avaliar a Eficácia das Ferramentas | Demonstrar Eficácia das Ferramentas | Documentos de Avaliação | Em andamento |
  Feedback e Ajustes| Coletar Feedback e Realizar Ajustes | Garantir Conformidade com as Expectativas | Reuniões | Em andamento |
 
