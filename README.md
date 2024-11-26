@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off geral |  26/08  | Concluido | [Ver Relatório]() |
 |01| 02/10 | Concluido |[Ver Relatório](/documentos/relatoriosp1.pdf) |
 |02| 30/10 | Concluido | [Ver Relatório](https://github.com/emilynn16/Miltech-Api/blob/main/documentos/RELATORIO%20-%20SPRINT%202.pdf) |
-|03| 21/10 a 10/11 | a fazer | [Ver Relatório]() |
+|03| 25/11 | a fazer | [Ver Relatório]() |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
 
 
@@ -196,14 +196,12 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 
 
-
-
       
 ## Sprint 3 . Implementação
 * Otimização da base completa;
 * Integração BI.
 
-## Excel
+
 
 ## Power Bi
 
