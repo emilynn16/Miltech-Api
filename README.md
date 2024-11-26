@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off geral |  26/08  | Concluido | [Ver Relatório]() |
 |01| 02/10 | Concluido |[Ver Relatório](/documentos/relatoriosp1.pdf) |
 |02| 30/10 | Concluido | [Ver Relatório](https://github.com/emilynn16/Miltech-Api/blob/main/documentos/RELATORIO%20-%20SPRINT%202.pdf) |
-|03| 25/11 | a fazer | [Ver Relatório]() |
+|03| 25/11 | a fazer | [Ver Relatório](https://github.com/emilynn16/Miltech-Api/blob/main/documentos/Relat%C3%B3rio%20Sprint%203.pdf) |
 |Feira de Soluções | 12/12 | a fazer | [Ver Relatório]() | 
 
 
