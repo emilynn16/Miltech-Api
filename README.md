@@ -198,8 +198,8 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
       
 ## Sprint 3 . Implementação
-* Otimização da base completa;
-* Integração BI.
+[x] Otimização da base completa;
+[x] Integração BI.
 
 
 
