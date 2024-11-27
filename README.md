@@ -204,8 +204,7 @@ Nessa SPRINT, como o cliente queria visualizar o tratamento dos dados, para ente
 
 
 ## Power Bi
-
-
+[Power BI acesso Sprint 3](https://app.powerbi.com/groups/me/reports/eedb2287-127d-490f-90eb-95501d5e35d6/ReportSection?experience=power-bi)
 
       
 
